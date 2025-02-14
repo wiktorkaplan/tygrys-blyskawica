@@ -60,10 +60,7 @@
   "private": true,
   "packageManager": "yarn@4.6.0",
   "lint-staged": {
-    "*.{ts,tsx}": [
-      "prettier --write",
-      "eslint --fix"
-    ]
+    "*.{ts,tsx}": []
   },
   "commitlint": {
     "extends": [
