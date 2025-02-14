@@ -31,3 +31,7 @@ Then, according to the commands in the console, you can run the application on t
 
 ## Note
 I know it's not a perfect version and there are some shortcomings but for (the final) one evening I'm satisfied. :) I'd be happy to talk about what the possibilities are. I did this on ios, it is possible that on android some changes need to be made.
+
+
+<a href="http://www.freepik.com">Designed by Freepik</a>
+
