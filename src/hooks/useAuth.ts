@@ -8,7 +8,7 @@ export const useAuth = () => {
   const login = (email: string, password: string) => {
     if (email === MOCK_EMAIL && password === MOCK_PASSWORD) {
       setToken('token-value')
-      setUser({ name: 'John Doe', mail: 'twojmail@wp.pl' })
+      setUser({ name: 'John Doe', mail: 'test@example.com' })
       return true
     } else {
       return false
