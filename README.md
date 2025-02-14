@@ -26,3 +26,6 @@ yarn start
 ```
 
 Then, according to the commands in the console, you can run the application on the selected device.
+
+## Note
+I know it's not a perfect version and there are some shortcomings but for (the final) one evening I'm satisfied. :) I'd be happy to talk about what the possibilities are
