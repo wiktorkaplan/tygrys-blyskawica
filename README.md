@@ -25,3 +25,4 @@ Use
 yarn start
 ```
 
+Then, according to the commands in the console, you can run the application on the selected device.
