@@ -17,6 +17,8 @@ If you cloned repository, run this command to install all necessary packages:
 yarn install
 ```
 
+In the project files there is .env.example, you need to change this to .env and specify API_KEY for openAi.
+
 ## Running the project
 
 Use
